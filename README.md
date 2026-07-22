@@ -1,9 +1,4 @@
 ## Introduction
-> VI-E2E is a vehicle-to-infrastructure framework for end-to-end autonomous driving.
-
-<div align="center">
-<img src="./assets/arch.png" />
-</div>
 
 - VI-E2E is a V2I cooperative end-to-end planning framework that integrates infrastructure-side observation information using instance-level query representations for combined AD tasks.
 - We design a planning-aware map-masking strategy that suppresses low-confidence or less planning-relevant map regions before trajectory generation.
